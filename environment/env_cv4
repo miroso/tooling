@@ -1,0 +1,18 @@
+# requirements for a general py3 environment
+h5py
+jsonschema
+jupyter
+keras
+matplotlib
+numpy
+pandas
+pillow
+pycodestyle
+pylint
+scikit-learn
+scikit-image
+scipy
+seaborn
+setuptools
+tensorflow-gpu
+tensorboard
