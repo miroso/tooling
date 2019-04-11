@@ -1,0 +1,7 @@
+jupyter
+ipython
+numpy
+pandas
+py4j
+pyspark==2.3.2
+pytz
