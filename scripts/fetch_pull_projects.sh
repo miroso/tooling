@@ -22,6 +22,8 @@ fi
 
 echo -e "\n\033[91mUpdating all repositories\033[0m"
 
+cd $project_path
+
 for d in */; do
     echo -e "\n\033[91m... $d\033[0m"    
     cd $d
@@ -30,4 +32,5 @@ for d in */; do
     cd -    
 done
 
+cd $curr_dir
 echo -e "\n\033[91m... Done\033[0m"
