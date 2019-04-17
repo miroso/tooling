@@ -1,5 +1,6 @@
 # requirements for a general py3 environment
 h5py
+ipdb
 jsonschema
 jupyter
 keras
@@ -14,5 +15,7 @@ scikit-image
 scipy
 seaborn
 setuptools
+sklearn
 tensorflow
 tensorboard
+yapf
