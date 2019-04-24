@@ -3,6 +3,7 @@ h5py
 ipdb
 jsonschema
 jupyter
+jupyter_contrib_nbextensions
 keras
 matplotlib
 numpy
@@ -16,6 +17,6 @@ scipy
 seaborn
 setuptools
 sklearn
-tensorflow-gpu
+tensorflow
 tensorboard
 yapf

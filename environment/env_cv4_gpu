@@ -1,3 +1,4 @@
+# requirements for a general py3 environment
 h5py
 ipdb
 jsonschema
@@ -16,6 +17,6 @@ scipy
 seaborn
 setuptools
 sklearn
-tensorflow
+tensorflow-gpu
 tensorboard
 yapf

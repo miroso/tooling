@@ -17,6 +17,6 @@ scipy
 seaborn
 setuptools
 sklearn
-tensorflow
+tensorflow-gpu
 tensorboard
 yapf
