@@ -1,7 +1,9 @@
+autopep8
 jupyter
 jupyter_contrib_nbextensions
 ipdb
 ipython
+keras
 numpy
 pandas
 py4j
