@@ -1,0 +1,28 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = false
+
+[dev-packages]
+pylint = "*"
+yapf = "*"
+pytest =  "*"
+sphinx-bootstrap-theme = "*"
+setuptools = "*"
+Sphinx = "*"
+v = {editable = true,version = "*"}
+
+[packages]
+pandas = "*"
+psycopg2 = "*"
+sklearn = "*"
+matplotlib = "*"
+seaborn = "*"
+numpy = "*"
+holidays = "*"
+statsmodels = "*"
+scipy = "*"
+pyspark = "*"
+
+[requires]
+python_version = "3"
